@@ -12,4 +12,3 @@ export DEBIAN_FRONTEND=;\
 bt 11;\
 echo 123456 | bt 5 123456;\'
 echo yxll | bt 6 yxll;\'
-echo yxll | bt 8 80;\'
